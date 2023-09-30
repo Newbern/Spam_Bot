@@ -1,11 +1,11 @@
-#Spam Bot
-##Python
-###Modules:
+# Spam Bot
+## Python
+### Modules:
 - pyautogui
 - os
 - time
 
-##Spam_bot
+## Spam_bot
 ```bash
 def Spam(txt, rep, tim):
 # Seconds needed to start the Spamming
